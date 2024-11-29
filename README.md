@@ -8,9 +8,9 @@ This work is part of the Interconnected Lab for MEdia Technology Analytics (ILME
 If you use any of the data or code please cite the following paper
 
 ```bibtex
-@article{keller2024assessing,
-  title={Advancing 4K Video Quality Models\\ with Viewing Distance Considerations},
-  author={Keller, Dominik and Prenzel, Julius  and Raake, Alexander},
+@article{keller2025advancing,
+  title={Advancing 4K Video Quality Models with Viewing Distance Considerations},
+  author={Keller, Dominik and Prenzel, Julius and Raake, Alexander},
   journal={to appear},
   year={2025},
   publisher={to appear}
@@ -21,7 +21,7 @@ If you use any of the data or code please cite the following paper
 ## Dataset
 
 ![thumbnails](github_images/thumbnails.png)
-*Thumbnails of the 31 sources (converted to Rec 709 for viewing purposes)*
+*Thumbnails of the 35 out of 175 sources (converted to Rec 709 for viewing purposes)*
 
 ## Download
 Download the sources: link to appear
@@ -30,8 +30,8 @@ Find the objective metric data in this git.
 
 ## Checksums   
 
-SHA-512 checksums will be found [here](to-appear).
-MD5 checksums can be found [here](to-appear).
+SHA-512 checksums will be found [to-appear](to-appear).
+MD5 checksums can be found [to-appear](to-appear).
 
 
 ## License
