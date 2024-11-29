@@ -20,8 +20,16 @@ If you use any of the data or code please cite the following paper
 
 ## Dataset
 
+The dataset consists of 4 different lighting scenarios and a loop through those 4 lighting scenarios. 
+Each scenario has 35 subjects. In the thumbnail we show lighting scenario 1.
+
 ![thumbnails](github_images/thumbnails.jpg)
 *Thumbnails of 35 out of 175 sources (converted to Rec 709 for viewing purposes)*
+
+Below a proxy of the loop can be seen.
+
+[![Click here for the Video-Proxy.](https://img.youtube.com/vi/_U5avwk3Ak0/0.jpg)](https://www.youtube.com/watch?v=_U5avwk3Ak0)
+
 
 ## Download
 Download the sources: link to appear
