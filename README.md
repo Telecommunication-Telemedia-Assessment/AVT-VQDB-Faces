@@ -10,7 +10,7 @@ If you use any of the data or code please cite the following paper
 ```bibtex
 @article{keller2025advancing,
   title={Advancing 4K Video Quality Models with Viewing Distance Considerations},
-  author={Keller, Dominik and Prenzel, Julius and Raake, Alexander},
+  author={Keller, Dominik and Ramachandra Rao, Rakesh Rao and Prenzel, Julius and Raake, Alexander},
   journal={to appear},
   year={2025},
   publisher={to appear}
