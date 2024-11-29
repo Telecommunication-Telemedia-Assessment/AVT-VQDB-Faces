@@ -20,8 +20,8 @@ If you use any of the data or code please cite the following paper
 
 ## Dataset
 
-![thumbnails](github_images/thumbnails.png)
-*Thumbnails of the 35 out of 175 sources (converted to Rec 709 for viewing purposes)*
+![thumbnails](github_images/thumbnails.jpg)
+*Thumbnails of 35 out of 175 sources (converted to Rec 709 for viewing purposes)*
 
 ## Download
 Download the sources: link to appear
