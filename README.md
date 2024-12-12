@@ -5,7 +5,7 @@ This is a repository with data related to the 4K HDR faces dataset that has not 
 However, to download the videos it is recommended to use the provided link, because the videos are not hosted in this repository.
 This work is part of the Interconnected Lab for MEdia Technology Analytics (ILMETA), funded by Deutsche Forschungsgemeinschaft (DFG, No. 438822823) and it is conducted in the framework of PoQuMo8K, a ZIM project (No. KK5112706ER1).
 
-If you use any of the data or code please cite the following paper
+If you use any of the data or code please cite the following paper:
 
 ```bibtex
 @article{keller2025advancing,
@@ -38,8 +38,8 @@ Find the objective metric data in this git.
 
 ## Checksums   
 
-SHA-512 checksums will be found [to-appear](to-appear).
-MD5 checksums can be found [to-appear](to-appear).
+SHA-512 checksums will be found [here](https://avtshare01.rz.tu-ilmenau.de/avt-vqdb-faces/checksums.sha512).
+MD5 checksums can be found [here](https://avtshare01.rz.tu-ilmenau.de/avt-vqdb-faces/checksums.md5).
 
 
 ## License
