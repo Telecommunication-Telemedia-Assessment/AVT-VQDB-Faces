@@ -8,8 +8,8 @@ This work is part of the Interconnected Lab for MEdia Technology Analytics (ILME
 If you use any of the data or code please cite the following paper:
 
 ```bibtex
-@article{keller2025advancing,
-  title={Advancing 4K Video Quality Models with Viewing Distance Considerations},
+@article{keller2025asubjective,
+  title={A Subjective and Objective Evaluation of Viewing Distance and 4K Video Quality},
   author={Keller, Dominik and Ramachandra Rao, Rakesh Rao and Prenzel, Julius and Raake, Alexander},
   journal={to appear},
   year={2025},
