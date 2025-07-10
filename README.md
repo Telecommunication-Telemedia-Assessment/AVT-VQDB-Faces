@@ -21,10 +21,10 @@ If you use any of the data or code please cite the following paper:
 ## Dataset
 
 The dataset consists of 4 different lighting scenarios and a loop through those 4 lighting scenarios. 
-Each scenario has 35 subjects. In the thumbnail we show lighting scenario 1.
+Each scenario has 34 subjects. In the thumbnail we show lighting scenario 1.
 
 ![thumbnails](github_images/thumbnails.jpg)
-*Thumbnails of 35 out of 175 sources (converted to Rec 709 for viewing purposes)*
+*Thumbnails of 34 out of 175 sources (converted to Rec 709 for viewing purposes)*
 
 Below a proxy of the loop can be seen.
 
