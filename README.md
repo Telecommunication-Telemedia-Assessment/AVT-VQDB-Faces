@@ -34,8 +34,6 @@ Below a proxy of the loop can be seen.
 ## Download
 Download the sources: https://forms.gle/8VqFPzdUGyEcf3jV9
 
-Find the objective metric data in this git.
-
 ## Checksums   
 
 SHA-512 checksums will be found [here](https://avtshare01.rz.tu-ilmenau.de/avt-vqdb-faces/checksums.sha512).
