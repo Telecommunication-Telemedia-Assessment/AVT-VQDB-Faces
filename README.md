@@ -28,7 +28,7 @@ Each scenario has 34 subjects. In the thumbnail we show lighting scenario 1.
 
 Below a proxy of the loop can be seen.
 
-[![Click here for the Video-Proxy.](https://img.youtube.com/vi/_U5avwk3Ak0/0.jpg)](https://www.youtube.com/watch?v=_U5avwk3Ak0)
+[![Click here for the Video-Proxy.](https://img.youtube.com/vi/_U5avwk3Ak0/maxresdefault.jpg)](https://www.youtube.com/watch?v=_U5avwk3Ak0)
 
 
 ## Download
